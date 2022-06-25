@@ -1,8 +1,8 @@
 ## Buildspace Nights and Weekends
 
-Buildspace Nights and Weekends S1 is a 6 weeks programing cohort, where selected builder come together to work on different project consistently for 6 weeks.
+[Buildspace Nights and Weekends S1](https://buildspace.so/nights-weekends) is a 6 weeks sprint where selected builder come together to work on different project consistently for 6 weeks.
 
-I applied so I could use the opportunity to improve my web3 development skills.
+I applied so I could use the push to improve my web3 development skills.
 
 To track my steps, I'd like to document my journey here.
 
