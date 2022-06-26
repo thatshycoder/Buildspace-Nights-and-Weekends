@@ -17,3 +17,7 @@ Drew a couple of sketches on how it should look.
 ## Day 2
 
 Working on validating my idea and fully understanding it. I'm also try to come up with some mockups on how the UI/UX should be.
+
+## Day 3
+
+I'll be designing more mockups today.
