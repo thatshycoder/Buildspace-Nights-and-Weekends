@@ -20,4 +20,4 @@ Working on validating my idea and fully understanding it. I'm also try to come u
 
 ## Day 3
 
-I'll be designing more mockups today.
+I'll be designing more UI mockups today.
