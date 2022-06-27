@@ -21,3 +21,7 @@ Working on validating my idea and fully understanding it. I'm also try to come u
 ## Day 3
 
 I'll be designing more mockups today.
+
+## Day 4
+
+Learned how to build a react native app, and brainstormed features of the idea. 
