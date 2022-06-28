@@ -25,3 +25,7 @@ I'll be designing more mockups today.
 ## Day 4
 
 Learned how to build a react native app, and brainstormed features of the idea. 
+
+## Day 5
+
+Built a simple landing page for the app idea.
