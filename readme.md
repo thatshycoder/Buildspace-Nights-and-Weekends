@@ -29,3 +29,7 @@ Learned how to build a react native app, and brainstormed features of the idea.
 ## Day 5
 
 Built a simple landing page for the app idea.
+
+# Day 6
+
+Designed the dashboard wireframe and also updated the website. Learning more react &react-native also by building a calculator mobile app. 
