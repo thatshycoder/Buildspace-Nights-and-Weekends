@@ -1,4 +1,4 @@
-## Buildspace Nights and Weekends
+# Buildspace Nights and Weekends
 
 <a href="https://buildspace.so/nights-weekends" target="_blank">Buildspace Nights and Weekends S1</a> is a 6 weeks sprint where selected builder come together to work on different project consistently for 6 weeks.
 
@@ -30,6 +30,15 @@ Learned how to build a react native app, and brainstormed features of the idea.
 
 Built a simple landing page for the app idea.
 
-# Day 6
+## Day 6
 
 Designed the dashboard wireframe and also updated the website. Learning more react &react-native also by building a calculator mobile app. 
+
+## Day 7
+
+I'll start working on the system design today so that I can move to implementating the UI and functionalities. Completed the website/landing page design.
+
+
+## Day 8
+
+Did the system design yesterday, will move to the database design today. I'm aware that some stuffs with the system and database design may change later.
