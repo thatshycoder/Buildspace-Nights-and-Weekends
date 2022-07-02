@@ -38,7 +38,11 @@ Designed the dashboard wireframe and also updated the website. Learning more rea
 
 I'll start working on the system design today so that I can move to implementating the UI and functionalities. Completed the website/landing page design.
 
-
 ## Day 8
 
 Did the system design yesterday, will move to the database design today. I'm aware that some stuffs with the system and database design may change later.
+
+
+## Day 9
+
+Made the website/landing page responsive. Completed 1 side project.
