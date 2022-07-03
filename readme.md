@@ -45,4 +45,8 @@ Did the system design yesterday, will move to the database design today. I'm awa
 
 ## Day 9
 
-Made the website/landing page responsive. Completed 1 side project.
+Made the website/landing page responsive. Completed 1 [side project](https://github.com/thatshycoder/JP-Calculator/).
+
+## Day 10
+
+Drafted 7 days, 14 days, 21 days, and 30 days goals for the idea execution.
