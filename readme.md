@@ -54,3 +54,7 @@ Drafted 7 days, 14 days, 21 days, and 30 days goals for the idea execution.
 ## Day 11
 
 Started building the mobile app. Built the authentication screen UI.
+
+## Day 12
+
+Built the Library and started implementating Upload feature.
