@@ -58,3 +58,10 @@ Started building the mobile app. Built the authentication screen UI.
 ## Day 12
 
 Built the Library and started implementating Upload feature.
+
+## Day 13
+
+Implemented the upload feature and started working on implementating the read book screen.
+
+
+## 
