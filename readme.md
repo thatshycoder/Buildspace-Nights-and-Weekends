@@ -64,4 +64,11 @@ Built the Library and started implementating Upload feature.
 Implemented the upload feature and started working on implementating the read book screen.
 
 
-## 
+## Day 14
+
+I'll be completing the read book screen to day.
+
+
+## Day 15
+
+Test what I've built so far. Clean up codes/see how things can be further optimized.
