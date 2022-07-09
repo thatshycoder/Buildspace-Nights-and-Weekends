@@ -72,3 +72,7 @@ I'll be completing the read book screen to day.
 ## Day 15
 
 Test what I've built so far. Clean up codes/see how things can be further optimized.
+
+## Day 16
+
+Read on unit testing for react native apps and write tests for modules developed so far.
