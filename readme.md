@@ -76,3 +76,7 @@ Test what I've built so far. Clean up codes/see how things can be further optimi
 ## Day 16
 
 Read on unit testing for react native apps and write tests for modules developed so far.
+
+## Day 17
+
+More tests and code optimization.
