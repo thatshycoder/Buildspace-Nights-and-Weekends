@@ -79,4 +79,13 @@ Read on unit testing for react native apps and write tests for modules developed
 
 ## Day 17
 
-More tests and code optimization.
+More tests and code optimization. Improved UI.
+
+
+## Day 18
+
+I'll start working on the tracking system today.
+
+## Day 19
+
+Still working on the tracking system.
