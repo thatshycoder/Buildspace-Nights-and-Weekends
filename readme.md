@@ -89,3 +89,7 @@ I'll start working on the tracking system today.
 ## Day 19
 
 Still working on the tracking system.
+
+## Day 20
+
+Added redux and firebase to the app.
