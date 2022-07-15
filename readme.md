@@ -93,3 +93,11 @@ Still working on the tracking system.
 ## Day 20
 
 Added redux and firebase to the app.
+
+## Day 21
+
+Improved app navigation.
+
+## Day 22
+
+Started working on simple wallet screen.
