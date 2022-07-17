@@ -101,3 +101,8 @@ Improved app navigation.
 ## Day 22
 
 Started working on simple wallet screen.
+
+## Day 23
+
+Improved app navigation UI and user profile screen.
+
