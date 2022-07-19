@@ -109,3 +109,7 @@ Improved app navigation UI and user profile screen.
 ## Day 24 
 
 Created twitter account for the app and bought a domain name
+
+## Day 25
+
+Implemented wallet connect authentication.
