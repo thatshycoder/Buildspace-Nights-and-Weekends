@@ -113,3 +113,11 @@ Created twitter account for the app and bought a domain name
 ## Day 25
 
 Implemented wallet connect authentication.
+
+## Day 26
+
+Designed a logo for the app
+
+## Day 27
+
+Redesigned and finalized logo(and branding) of the app 
