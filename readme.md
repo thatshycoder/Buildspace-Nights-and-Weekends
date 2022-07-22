@@ -120,4 +120,8 @@ Designed a logo for the app
 
 ## Day 27
 
-Redesigned and finalized logo(and branding) of the app 
+Redesigned and finalized logo(and branding) of the app
+
+## Day 28
+
+Optimized the twitter profile of the app. Designed banners.
