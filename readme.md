@@ -125,3 +125,12 @@ Redesigned and finalized logo(and branding) of the app
 ## Day 28
 
 Optimized the twitter profile of the app. Designed banners.
+
+## Day 29
+
+Fell ill. Could only work on twitter account
+
+## Day 30
+
+Sickness got bad and couldn't work throughout the day.
+
