@@ -134,3 +134,6 @@ Fell ill. Could only work on twitter account
 
 Sickness got bad and couldn't work throughout the day.
 
+## Day 31
+
+Got back to work today. Thank God for strength. Created database collections.
