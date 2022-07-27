@@ -142,3 +142,7 @@ Got back to work today. Thank God for strength. Created database collections.
 ## Day 32
 
 Built a simple reward system.
+
+## Day 33
+
+Updated website and created mailing list.
