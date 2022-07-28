@@ -146,3 +146,7 @@ Built a simple reward system.
 ## Day 33
 
 Updated website and created mailing list.
+
+## Day 34
+
+Started working on the whitepaper for the app, and I added analytics to the website.
