@@ -150,3 +150,8 @@ Updated website and created mailing list.
 ## Day 34
 
 Started working on the whitepaper for the app, and I added analytics to the website.
+
+## Day 35
+
+Twitter went live. Got feedbacks from someone at Buildspace. Ran a giveaway on Whatsapp
+to promote the app. New users joined the waitlist for the app.
