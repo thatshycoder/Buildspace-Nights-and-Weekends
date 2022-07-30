@@ -138,7 +138,6 @@ Sickness got bad and couldn't work throughout the day.
 
 Got back to work today. Thank God for strength. Created database collections.
 
-
 ## Day 32
 
 Built a simple reward system.
@@ -155,3 +154,7 @@ Started working on the whitepaper for the app, and I added analytics to the webs
 
 Twitter went live. Got feedbacks from someone at Buildspace. Ran a giveaway on Whatsapp
 to promote the app. New users joined the waitlist for the app.
+
+## Day 36
+
+Did more promotion and social media marketing for the app.
