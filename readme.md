@@ -158,3 +158,7 @@ to promote the app. New users joined the waitlist for the app.
 ## Day 36
 
 Did more promotion and social media marketing for the app.
+
+## Day 37
+
+Created an instagram page for the app. Promoted the app on Instagram.
