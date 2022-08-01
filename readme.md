@@ -162,3 +162,7 @@ Did more promotion and social media marketing for the app.
 ## Day 37
 
 Created an instagram page for the app. Promoted the app on Instagram.
+
+## Day 38
+
+Started fixig bug with wallet connect implementation
