@@ -165,8 +165,12 @@ Created an instagram page for the app. Promoted the app on Instagram.
 
 ## Day 38
 
-Started fixig bug with wallet connect implementation
+Started fixing bug with wallet connect implementation
 
 ## Day 39
 
 Finished implementating wallet connect. Completed user authentication.
+
+## Day 40
+
+Cleaned up user profile screen.
