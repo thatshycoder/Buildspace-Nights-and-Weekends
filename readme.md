@@ -174,3 +174,7 @@ Finished implementating wallet connect. Completed user authentication.
 ## Day 40
 
 Cleaned up user profile screen.
+
+## Day 41
+
+Code cleanup
