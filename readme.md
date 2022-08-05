@@ -178,3 +178,7 @@ Cleaned up user profile screen.
 ## Day 41
 
 Code cleanup
+
+## Day 42
+
+Worked on revamping my LinkedIn profile and updated my CV.
