@@ -181,4 +181,8 @@ Code cleanup
 
 ## Day 42
 
-Worked on revamping my LinkedIn profile and updated my CV.
+Revamped my LinkedIn profile and updated my CV.
+
+## Day 43
+
+Fix existing bugs on the app and cleaned up UI.
