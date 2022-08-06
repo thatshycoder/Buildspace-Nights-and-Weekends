@@ -185,4 +185,8 @@ Revamped my LinkedIn profile and updated my CV.
 
 ## Day 43
 
-Fix existing bugs on the app and cleaned up UI.
+Fixed existing bugs on the app and cleaned up UI.
+
+## Day 44
+
+Fixed all bugs and made app ready for demo day. Worked on demo day presentation also.
