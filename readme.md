@@ -189,4 +189,10 @@ Fixed existing bugs on the app and cleaned up UI.
 
 ## Day 44
 
-Fixed all bugs and made app ready for demo day. Worked on demo day presentation also.
+Made wallet dynamic. Implemented Firebase user registration. Lots of code cleanup, bug fixes etc. Made app ready for demo day and worked on Figma presentation for it.
+
+## Day 45 - The End
+
+Sprint ended yesterday. The journey was super fun and exciting. When I started out, I was really worried I would drop off or somthing. Glad I stayed consistent despite challenges faced + uncertainties. Planning to start another sprint to keep the fire burning. ✌️ 
+
+
