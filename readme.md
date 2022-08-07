@@ -193,6 +193,6 @@ Made wallet dynamic. Implemented Firebase user registration. Lots of code cleanu
 
 ## Day 45 - The End
 
-Sprint ended yesterday. The journey was super fun and exciting. When I started out, I was really worried I would drop off or somthing. Glad I stayed consistent despite challenges faced + uncertainties. Planning to start another sprint to keep the fire burning. ✌️ 
+Sprint ended yesterday. The journey was super fun and exciting. When I started out, I was really worried I would drop off or somthing. Glad I stayed consistent despite challenges faced + uncertainties. Planning to start another sprint to keep the fire burning.:v:
 
 
